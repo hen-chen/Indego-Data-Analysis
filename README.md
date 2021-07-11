@@ -20,7 +20,7 @@ We recommend using Colab since the graphs and plots can be easily viewed in your
 
 ## Code structure
 
-The program first gets all the data from 2020 which can be found [here](https://www.rideindego.com/about/data/). Based on 2020 alone, we gathered and plotted data regarding people's preferences/tendencies using Indego, such as the average bike duration, eletric vs. standard bike usage, most popular bike stations, etc.
+The program first gets all the data from 2020 which can be found [here](https://www.rideindego.com/about/data/). Based on 2020 alone, we gathered and plotted data regarding people's preferences/tendencies using Indego, such as the average bike duration, electric vs. standard bike usage, most popular bike stations, etc.
 
 Feel free to zoom in/out on the maps! You can also hover over the dots to get the station number, latitude, and longitude.
 
